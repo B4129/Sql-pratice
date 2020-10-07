@@ -1,0 +1,1 @@
+update パーティー SET HP = round(HP * 1.3) , MP = round(MP * 1.3)

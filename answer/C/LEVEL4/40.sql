@@ -1,0 +1,1 @@
+select floor(777 *0.7) as 金額
