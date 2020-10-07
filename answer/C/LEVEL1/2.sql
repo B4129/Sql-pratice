@@ -1,0 +1,1 @@
+select   "名称" as なまえ,  hp as 現在のHP, mp as 現在のMP from パーティー
